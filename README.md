@@ -8,9 +8,15 @@ This project uses two approaches.
 - First, I developed and compared different supervised machine learning models for predicting median house prices 
 - Secondly,i used an unsupervised machine learning approach to identify natural clusters in the data, followed by incoporating this information about natural clustering in to the best model from the first approach to get a better prediction.
 
-# Python Modules used
+# Modules used
+- Python 3.13.7
 - Pandas
 - Numpy
 - Matplotlib
 - Searborn
-- scikit-learn 
+- scikit-learn
+# How to use the report file.
+- Clone the GitHub repository
+- Install all the necessary python modules
+- Open the report file (ML_uppgift1_Che_Henry_Ngwa.ipynb),load the housing data included in this repository
+- Click restart and run all.
